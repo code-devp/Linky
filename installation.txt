@@ -1,0 +1,10 @@
+**INSTALLATION INSTRUCTIONS**
+
+1. Before executing the TestBrowser.java file,please make sure that the following file locations are configured correctly as below:
+
+- temp.html = file:///C:/Browser/src/temp.html
+- homepage.html = file:///C:/Browser/src/textilate/homepage.html
+- help.html = file:///C:/Browser/src/help.html
+
+2. If using Eclipse IDE, then change the jre library settings to alternate jre library in Project Settings.
+
